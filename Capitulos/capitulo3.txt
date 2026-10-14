@@ -1,0 +1,1 @@
+Las ramas permiten trabajar en paralelo sin afectar a la línea principal
