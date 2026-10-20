@@ -1,1 +1,0 @@
-En este capitulo veremos los entornos gráficos de de Git
